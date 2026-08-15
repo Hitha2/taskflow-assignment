@@ -8,9 +8,9 @@ import {
     moveTask,
 } from "./services/api";
 
-import Column from "./components/Column.jsx";
-import TaskForm from "./components/TaskForm.jsx";
-import EditTaskModal from "./components/EditTaskModal.jsx";
+import Column from "./components/Column";
+import TaskForm from "./components/TaskForm";
+import EditTaskModal from "./components/EditTaskModal";
 
 import "./App.css";
 
