@@ -4,6 +4,11 @@ TaskFlow is a full-stack task management application developed as part of the Ta
 
 The application allows users to manage tasks through a simple task board with columns such as To Do, In Progress, and Done.
 
+## 🔗 Live Demo
+
+- **Live Application:** https://taskflow-assignment-gamma.vercel.app
+- **GitHub Repository:** https://github.com/Hitha2/taskflow-assignment
+
 ## Features
 
 - View tasks organized into columns
